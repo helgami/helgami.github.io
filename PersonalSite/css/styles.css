@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Great Vibes', cursive;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Great Vibes', cursive;
+  font-size: 562.5%;
+  color: #81b214;
+}
+
+h2 {
+  font-family: 'Great Vibes', cursive;
+  color: #81b214;
+  font-size: 40px;
+}
+
+h3 {
+    font-family: 'M PLUS 1p', sans-serif;
+    color: #81b214;
+}
+
+p {
+  font-family: 'M PLUS 1p', sans-serif;
+  color: #966c3b;
+}
+
+.top {
+  padding-top: 100px;
+  position: relative;
+  background-color: #ffdf6b;
+}
+
+.bottom {
+  font-family: 'M PLUS 1p', sans-serif;
+  background-color: #ffdf6b;
+  margin: auto;
+  padding: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.btn {
+  font-family: 'M PLUS 1p', sans-serif;
+}
+
+.profile {
+  margin: 100px;
+}
+
+.skills {
+  margin: 100px;
+}
+
+.img {
+  padding: 40px;
+}
+
+.td {
+  font-family: 'M PLUS 1p', sans-serif;
+  cellspacing="100px";
+  margin: auto;
+}
+
+.tab1 {
+  margin: 0 auto;
+  font-family: 'M PLUS 1p', sans-serif;
+  text-align: left;
+  width: 50%;
+}
+
+.tab2 {
+  margin: 0 auto;
+  font-family: 'M PLUS 1p', sans-serif;
+  text-align: left;
+  width: 50%;
+}
+
+.tab3 {
+  margin: 0 auto;
+  font-family: 'M PLUS 1p', sans-serif;
+  text-align: left;
+  width: 50%;
+}
+
+.skill-row {
+  color: #966c3b
+}
+
+.text {
+  font-size: 25px;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #ffdf6b;
+    border-width: 5px;
+    width: 5%;
